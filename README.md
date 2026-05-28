@@ -34,7 +34,7 @@ This project was developed during my Data Science internship at British Airways.
    - `visualization.py`
      
  ## ▶️ visual_output
- [`BAtask1.png`]
+ [](BAtask1.png)
 
 ## 🧑‍💻 Author
 **Sakshi Patel**  
