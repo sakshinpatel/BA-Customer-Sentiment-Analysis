@@ -32,6 +32,9 @@ This project was developed during my Data Science internship at British Airways.
    - `clean_reviews.py`
    - `analysis.py`
    - `visualization.py`
+     
+ ## ▶️ visual_output
+ [`BAtask1.png`]
 
 ## 🧑‍💻 Author
 **Sakshi Patel**  
@@ -40,4 +43,3 @@ Data Science Intern at British Airways
 
 ## 📌 Note
 This project is for educational and internship purposes only. The data used is publicly available and scraped responsibly.
-
