@@ -25,7 +25,7 @@ This project was developed during my Data Science internship at British Airways.
 
 ## ▶️ How to Run
 1. Clone this repository:  
-   `git clone https://github.com/sakshipatel/BA-Customer-Sentiment-Analysis.git`
+   `git clone https://github.com/sakshinpatel/BA-Customer-Sentiment-Analysis.git`
 
 2. Run the following scripts in order:
    - `webscrap.py`
